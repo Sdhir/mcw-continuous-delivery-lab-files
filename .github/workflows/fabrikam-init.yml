@@ -17,7 +17,7 @@ on:
 
 env:
   # Use docker.io for Docker Hub if empty
-  REGISTRY: docker.pkg.github.com/sdhir/mcw-continuous-lab-files
+  REGISTRY: docker.pkg.github.com/sdhir/mcw-continuous-delivery-lab-files
   # github.repository as <account>/<repo>
   IMAGE_NAME: fabrikam-init
 
